@@ -1,7 +1,7 @@
 package com.sw.pushnotification.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sw.common.pattern.AbstractBuilder;
+import com.sw.pushnotification.common.AbstractBuilder;
 import com.sw.pushnotification.sender.ApnsSender;
 import com.sw.pushnotification.sender.FcmSender;
 import com.sw.pushnotification.sender.GcmSender;
